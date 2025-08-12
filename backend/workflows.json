@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Datacleaning pipeline",
+    "details": "This workflow cleans raw sales data and removes duplicates."
+  },
+  {
+    "name": "harshitha",
+    "details": "she is very intelligent"
+  }
+]
